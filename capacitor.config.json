@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.qrattendance",
+  "appName": "QR Attendance",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
