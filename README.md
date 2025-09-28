@@ -95,8 +95,8 @@ npx cap add ios
   <img src="./public/img_5.png" style="width:230px;max-width:100%;height:auto;border-radius:12px;" loading="lazy" decoding="async">
   <img src="./public/img_6.png" style="width:230px;max-width:100%;height:auto;border-radius:12px;" loading="lazy" decoding="async">
   <img src="./public/img_7.png" style="width:230px;max-width:100%;height:auto;border-radius:12px;" loading="lazy" decoding="async">
-  <img src="./public/img_8.png" style="width:230px;max-width:100%;height:auto;border-radius:12px;" loading="lazy" decoding="async">
   <img src="./public/img.png" style="width:230px;max-width:100%;height:auto;border-radius:12px;" loading="lazy" decoding="async">
+  <img src="./public/img_8.png" style="width:230px;max-width:100%;height:auto;border-radius:12px;" loading="lazy" decoding="async">
 </p>
 
 # React + Vite
